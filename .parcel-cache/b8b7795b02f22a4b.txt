@@ -1,4 +1,4 @@
-4724
+4727
 64C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\dom-serializer133046500417145593 1
 64C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\weak-lru-cache133046500403091550 1
 83C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\reporter-cli\package.json133046500426844246 0
@@ -11,20 +11,19 @@
 70C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\tslib\tslib.es6.html133046500343971818 0
 95C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\reporter-cli\test\CLIReporter.test.js133046500405697882 0
 50C:\Users\Admin\Desktop\goit-js-hw-10\.editorconfig132991530620000000 0
-68C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\fill-range\LICENSE133046500356160038 0
-89C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\caniuse-lite\data\features\gyroscope.js133046500644486514 0
-146C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2133046500590408748 1
-104C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@swc\helpers\lib\_class_check_private_static_access.js133046500439751228 0
-97C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133046500350652514 0
-74C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\weak-lru-cache\README.md133046500400820610 0
-74C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\abortcontroller-polyfill133046500427024135 1
-100C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\caniuse-lite\data\features\css-deviceadaptation.js133046500627966037 0
-85C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\type-fest\source\readonly-deep.d.ts133046500462691697 0
-74C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\dom-serializer\README.md133046500419234287 0
-41C:\Users\Admin\Desktop\goit-js-hw-10\dist133046501079120603 1
+58C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\notiflix133046500465080217 1
+107C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-gnu.node133046500576357173 0
+112C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\010-introduction.md133046500550124016 0
+87C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\svgo\plugins\removeEmptyContainers.js133046500531323846 0
+100C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@babel\highlight\node_modules\ansi-styles\index.js133046500349693125 0
+46C:\Users\Admin\Desktop\goit-js-hw-10\README.md133046491761442103 0
+58C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@nodelib133046500293730045 1
+73C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\svgo\lib\stringifier.js133046500576866868 0
+44C:\Users\Admin\Desktop\goit-js-hw-10\.github132991530620000000 1
+87C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\terser\lib\compress\native-objects.js133046500514558590 0
 90C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\json-parse-even-better-errors\LICENSE.md133046500370580041 0
 108C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-musl.node133046500591897819 0
-67C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@msgpackr-extract133046507282817936 1
+67C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@msgpackr-extract133046922333925769 1
 74C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\watcher\index.js133046500474756691 0
 79C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\terser\lib\compress\common.js133046500456039010 0
 59C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\.bin\svgo133046500697904202 0
@@ -75,11 +74,22 @@
 91C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\fast-glob\out\providers\filters\deep.d.ts133046500476830011 0
 44C:\Users\Admin\Desktop\goit-js-hw-10\.sassrc132991530620000000 0
 98C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@swc\helpers\lib\_check_private_redeclaration.js133046500419783966 0
+68C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\fill-range\LICENSE133046500356160038 0
+89C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\caniuse-lite\data\features\gyroscope.js133046500644486514 0
+146C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2133046500590408748 1
+104C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@swc\helpers\lib\_class_check_private_static_access.js133046500439751228 0
+97C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133046500350652514 0
+74C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\weak-lru-cache\README.md133046500400820610 0
+74C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\abortcontroller-polyfill133046500427024135 1
+100C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\caniuse-lite\data\features\css-deviceadaptation.js133046500627966037 0
+85C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\type-fest\source\readonly-deep.d.ts133046500462691697 0
+74C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\dom-serializer\README.md133046500419234287 0
+41C:\Users\Admin\Desktop\goit-js-hw-10\dist133046501079120603 1
 88C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\packager-js\lib\dev-prelude.js133046500377753878 0
 80C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\csso\lib\clean\TypeSelector.js133046500519051635 0
 97C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\caniuse-lite\data\features\fieldset-disabled.js133046500640728163 0
-49C:\Users\Admin\Desktop\goit-js-hw-10\node_modules133046507282688006 1
-54C:\Users\Admin\Desktop\goit-js-hw-10\package-lock.json133046507283847287 0
+49C:\Users\Admin\Desktop\goit-js-hw-10\node_modules133046922333815745 1
+54C:\Users\Admin\Desktop\goit-js-hw-10\package-lock.json133046922335154918 0
 83C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\runtime-react-refresh\lib133046500349403295 1
 63C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\msgpackr\dist133046500419793942 1
 92C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@babel\helper-validator-identifier\LICENSE133046500344821283 0
@@ -88,13 +98,6 @@
 109C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@jridgewell\trace-mapping\dist\types\sourcemap-segment.d.ts133046500423883748 0
 80C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\cache\lib\LMDBCache.js133046500406703521 0
 49C:\Users\Admin\Desktop\goit-js-hw-10\package.json133046506971482641 0
-58C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\notiflix133046500465080217 1
-107C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-gnu.node133046500576357173 0
-112C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\010-introduction.md133046500550124016 0
-87C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\svgo\plugins\removeEmptyContainers.js133046500531323846 0
-100C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@babel\highlight\node_modules\ansi-styles\index.js133046500349693125 0
-46C:\Users\Admin\Desktop\goit-js-hw-10\README.md133046491761442103 0
-58C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@nodelib133046500293730045 1
 80C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\notiflix\build\notiflix-aio.js133046500414637117 0
 63C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\dotenv-expand133046500384456060 1
 61C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\yaml\seq.js133046500486090028 0
@@ -170,7 +173,7 @@
 66C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\posthtml-include133046500370313798 1
 93C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\caniuse-lite\data\features\link-icon-svg.js133046500651038181 0
 74C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\css-tree\dist\csstree.js133046500482360564 0
-68C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\.package-lock.json133046507284237036 0
+68C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\.package-lock.json133046922335654614 0
 90C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\runtime-browser-hmr\package.json133046500402651823 0
 77C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\fs\src\OverlayFS.js133046500412008057 0
 70C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\json5\lib\unicode.js133046500410838760 0
@@ -193,7 +196,7 @@
 86C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\caniuse-lite\data\features\dialog.js133046500638169744 0
 97C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@swc\helpers\src\_class_private_field_update.js133046500613166736 0
 99C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@jridgewell\trace-mapping\dist\types\resolve.d.ts133046500417055637 0
-57C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel133046507282737971 1
+57C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel133046922333885709 1
 92C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\lmdb\node_modules\node-addon-api\README.md133046500449197666 0
 59C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\callsites133046500379762654 1
 92C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\caniuse-lite\data\features\documenthead.js133046500638749380 0
@@ -710,6 +713,7 @@
 78C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\css-select\lib\attributes.js133046500370559693 0
 82C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\term-size\vendor\macos\term-size133046500380602129 0
 78C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\weak-lru-cache\tests\test.js133046500393225292 0
+65C:\Users\Admin\Desktop\goit-js-hw-10\.github\workflows\deploy.yml132991530620000000 0
 87C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\workers\test\cpuCount.test.js133046500425108931 0
 71C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\yaml\browser\index.js133046500400810626 0
 76C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\nth-check\lib\esm\index.js133046500376284785 0
@@ -1221,8 +1225,6 @@
 107C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133046500579246416 0
 91C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\reusify\benchmarks\reuseNoCodeFunction.js133046500403801152 0
 79C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\terser\lib\compress\inline.js133046500495531941 0
-87C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\terser\lib\compress\native-objects.js133046500514558590 0
-73C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\svgo\lib\stringifier.js133046500576866868 0
 74C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\fast-glob\out\index.d.ts133046500495511948 0
 70C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\hash\LICENSE133046500344851276 0
 70C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\terser\dist\.gitkeep133046500343981803 0
@@ -1312,8 +1314,8 @@
 99C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\caniuse-lite\data\features\css-text-align-last.js133046500636001086 0
 83C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\css-select\lib\procedure.d.ts.map133046500451446290 0
 82C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\svgo\plugins\removeDimensions.js133046500515108242 0
-67C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\commander\esm.mjs133046500400260973 0
 85C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\svgo\plugins\removeEditorsNSData.js133046500521540304 0
+67C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\commander\esm.mjs133046500400260973 0
 94C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\source-map\parcel_sourcemap_node\src133046500593896582 1
 77C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\@parcel\config-default\test133046500357082741 1
 86C:\Users\Admin\Desktop\goit-js-hw-10\node_modules\svgo\plugins\removeElementsByAttr.js133046500524721869 0
@@ -4723,3 +4725,4 @@
 60C:\Users\Admin\Desktop\goit-js-hw-10\assets\how-it-works.png132991530620000000 0
 61C:\Users\Admin\Desktop\goit-js-hw-10\assets\repo-settings.png132991530620000000 0
 54C:\Users\Admin\Desktop\goit-js-hw-10\assets\status.png132991530620000000 0
+54C:\Users\Admin\Desktop\goit-js-hw-10\.github\workflows132991530620000000 1
